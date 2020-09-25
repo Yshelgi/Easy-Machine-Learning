@@ -10,3 +10,5 @@
 + 贝叶斯
 + 聚类问题
 + 回归问题
+
+![梯度下降](https://github.com/xiaojiejiela/Easy-Machine-Learning/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A01-%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.png)
